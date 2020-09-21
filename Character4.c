@@ -5,8 +5,8 @@ int main(void)
 {
 	char input[10] = "I Love You";
 	char result[5] = "Love";
-	strcpy(result, input); // result¿¡ inputÀ» º¹»ç 
-	printf("¹®ÀÚ¿­ º¹»ç : %s\n", result);
+	strcpy(result, input); // resultì— inputì„ ë³µì‚¬ 
+	printf("ë¬¸ìì—´ ë³µì‚¬ : %s\n", result);
 	
 	return 0;
 }
