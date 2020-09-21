@@ -4,9 +4,9 @@ int main(void)
 {
 	int i = 10;
 	int *p;
-	p = &i; // p´Â ÁÖ¼Ò 
+	p = &i; // pëŠ” ì£¼ì†Œ 
 	printf("i = %d\n", i);
-	*p = 20; // *p´Â i°ª 
+	*p = 20; // *pëŠ” iê°’ 
 	printf("i = %d\n", i);
 	
 	return 0;
